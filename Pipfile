@@ -9,6 +9,7 @@ pandas ="*"
 xgboost = "*"
 sklearn = "*"
 scikit-learn = "*"
+numpy = "*"
 
 [dev-packages]
 ipykernel = "*"
