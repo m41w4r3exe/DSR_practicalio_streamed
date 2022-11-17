@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import pickle
-import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.linear_model import LogisticRegression
 
